@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+<title id="title">EduHub Web Event</title>
+<desc id="desc">Hình minh họa sự kiện công nghệ với biểu tượng màn hình và tia sáng</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#006CB4"/><stop offset="1" stop-color="#42b8d8"/></linearGradient></defs>
+<rect width="800" height="420" fill="#e8f3fb"/>
+<circle cx="650" cy="80" r="120" fill="#c8e8f8"/>
+<circle cx="120" cy="360" r="150" fill="#d4edf9"/>
+<rect x="220" y="75" width="360" height="235" rx="22" fill="url(#g)"/>
+<rect x="245" y="100" width="310" height="185" rx="10" fill="#fff"/>
+<path d="M350 330h100l22 28H328z" fill="#006CB4"/>
+<rect x="310" y="358" width="180" height="13" rx="6" fill="#00558f"/>
+<path d="M400 135l-48 73h40l-12 45 68-86h-43l16-32z" fill="#ffbd4a"/>
+<text x="400" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#123047">LEARN • CONNECT • CREATE</text>
+</svg>
